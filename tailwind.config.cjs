@@ -4,7 +4,7 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}"
   ],
-  darkMode: false, // or 'media' or 'class'
+  darkMode: true, // or 'media' or 'class'
   //这里可以对tailwind的类名进行扩展
   theme: {
     extend: {
